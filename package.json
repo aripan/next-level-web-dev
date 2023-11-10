@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsnd --respawn src/installation_2_1.ts",
+    "start": "tsnd --respawn src/primitive_types_in_typescript_2_2.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
