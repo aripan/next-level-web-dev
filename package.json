@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsnd --respawn src/module2/functions_in_typescript_2_5.ts",
+    "start": "tsnd --respawn src/module2/spread_rest_default_parameters_and_destructuring_2_6.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
