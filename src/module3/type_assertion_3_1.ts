@@ -1,3 +1,4 @@
+//@ type assertion
 let something: any;
 
 something = 'Next level web development';
